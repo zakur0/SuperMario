@@ -1,0 +1,17 @@
+enemy:goomba:10:5:150
+enemy:flower_monster:14:4:0
+enemy:goomba:20:5:250
+enemy:goomba:24:5:150
+enemy:goomba:25:5:150
+enemy:goomba:39:1:200
+enemy:goomba:36:1:200
+enemy:goomba:47:5:150
+enemy:goomba:48:5:150
+enemy:turtle:52:2:200
+enemy:goomba:59:5:150
+enemy:goomba:60:5:150
+enemy:goomba:62:5:150
+enemy:goomba:63:5:150
+enemy:goomba:84:5:150
+enemy:goomba:85:5:150
+goal:6242:Level1
